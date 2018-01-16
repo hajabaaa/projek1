@@ -20,6 +20,9 @@ public class exercise2 {
          System.out.println ("Masukkan nombor 1 :");
          no1=input.nextDouble();
          
+         System.out.println ("Masukkan nombor 1 :");
+         no1=input.nextDouble();
+         
         System.out.println ("Masukkan nombor 2 :");
          no2=input.nextDouble();
          
